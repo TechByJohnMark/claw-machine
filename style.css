@@ -173,7 +173,6 @@ body {
 .collection-point {
   position: absolute;
   bottom: 0;
-  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAMCAYAAABm+U3GAAAAAXNSR0IArs4c6QAAADBJREFUOE9jtJqy/T8DFcGxHE9GkHGM1DYYZCjIcJoYTDMXjxqMkrZGIw8eHEMvKADnSiE1EAXSagAAAABJRU5ErkJggg==);
   --w: 44px;
   --h: 24px;
   /* z-index: 2; */
